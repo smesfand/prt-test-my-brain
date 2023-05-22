@@ -8,7 +8,7 @@ library(jsonlite)
 
 input.folder <- 'data-input' # will process all files in this folder
 output.folder <- 'data-output' # ... and create a copy in this folder with prefix out-
-long.shape <- 'cats' 
+long.shape <- 'cats' ##change to bunnies when processing Dog_Bunny version of task
 short.shape <- 'dogs'
 
 ### REST RUNS AUTOMATICALLY
